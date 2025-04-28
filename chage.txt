@@ -1,1 +1,0 @@
-this is ti check remove optin in git command.
