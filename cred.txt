@@ -1,2 +1,0 @@
-username=darshanshirguppe01
-password=ds@1008
