@@ -1,0 +1,2 @@
+trying to execute the git commands.
+git is easy to learn.
