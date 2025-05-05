@@ -1,3 +1,4 @@
 trying to execute the git commands.
 git is easy to learn.
 need consistant work to have grip on this tool.
+consistancy is the key to achieve any thing.
