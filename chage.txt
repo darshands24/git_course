@@ -3,3 +3,5 @@ this is ti check remove option in git command.
 
 
 changes about learning.
+
+continuous leaning is important. 
